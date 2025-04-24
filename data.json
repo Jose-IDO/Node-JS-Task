@@ -1,0 +1,20 @@
+{
+    "movies": [
+        ["batman", 1989],
+        ["superman-chronicles", 1978],
+        ["Interstellar", 2014],
+        ["the greatest showman", 2017]
+    ],
+    "songs": [
+        ["akon-put the blame on me", "R&B"],
+        ["drake-hotline bling", "Hip-Hop"],
+        ["forrest frank-All the time", "Indie"],
+        ["housefires-build my life", "Worship"]
+    ],
+    "series": [
+        ["the penguin", 2023],
+        ["the walking dead", 2010],
+        ["smallville", 2001],
+        ["black mirror", 2011]
+    ]
+}
